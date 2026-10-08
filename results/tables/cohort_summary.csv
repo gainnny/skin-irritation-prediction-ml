@@ -1,0 +1,4 @@
+Endpoint,Unique Compounds (N),Toxic / Active (1),Non-Toxic / Inactive (0),Active Prevalence (%)
+Skin Sensitization,1185,146,1039,12.32
+Skin Irritation,200,39,161,19.5
+Eye Irritation,333,272,61,81.68

@@ -1,0 +1,9 @@
+,"High Predicted Probability (P > 0.70, N=62)","Low Predicted Probability (P < 0.10, N=30)"
+MolWt,128.021,236.724
+MolLogP,0.058,2.544
+TPSA,50.298,51.292
+FractionCSP3,0.189,0.587
+NumAromaticRings,0.484,0.867
+NumRotatableBonds,0.952,5.1
+HeavyAtomCount,7.484,16.133
+RingCount,0.565,0.933

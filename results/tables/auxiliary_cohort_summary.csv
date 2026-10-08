@@ -1,0 +1,5 @@
+cohort,endpoint_records,unique_standardized_structures,class_1,class_0,cross_auxiliary_overlap
+Skin Sensitization (training),1185,1185,146.0,1039.0,
+Skin Irritation (auxiliary),200,200,39.0,161.0,145.0
+Eye Irritation classification endpoints (auxiliary),333,333,272.0,61.0,145.0
+Combined auxiliary endpoint records,533,388,,,145.0

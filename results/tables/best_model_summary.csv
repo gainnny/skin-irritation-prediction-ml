@@ -1,0 +1,2 @@
+model,best_cv_roc_auc,best_params
+Random Forest (Optimized),0.7852482894347502,"{'classifier__max_depth': 10, 'classifier__max_features': 'sqrt', 'classifier__min_samples_leaf': 4, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 100}"
